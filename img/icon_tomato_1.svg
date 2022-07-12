@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#FC4C40;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{display:inline;}
+	.st3{fill:#FC4C40;}
+	
+		.st4{display:inline;fill:#FC4C40;stroke:#FC4C40;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="레이어_5" class="st0">
+	<path class="st1" d="M85.6,96.5H14.4c-8.3,0-13.7-8.6-10-16L40,10.1c4.1-8.1,15.9-8.1,20,0l35.6,70.4
+		C99.3,87.8,93.9,96.5,85.6,96.5z"/>
+	<g class="st2">
+		<path class="st3" d="M44.8,79.9c0-2.9,2.2-5.1,5.2-5.1s5.2,2.2,5.2,5.1c0,3-2.2,5.2-5.2,5.2S44.8,82.8,44.8,79.9z M45.6,27.7h8.9
+			l-1.8,40.7h-5.3L45.6,27.7z"/>
+	</g>
+</g>
+<g id="레이어_4" class="st0">
+	<path class="st1" d="M35,67.7H13.5c-5.5,0-10-4.5-10-10V13.5c0-5.5,4.5-10,10-10h73c5.5,0,10,4.5,10,10v44.2c0,5.5-4.5,10-10,10H65
+		"/>
+	<circle class="st4" cx="50" cy="35.6" r="4.1"/>
+	<circle class="st4" cx="26.5" cy="35.6" r="4.1"/>
+	<circle class="st4" cx="73.5" cy="35.6" r="4.1"/>
+	<polyline class="st1" points="65,67.7 50,96.5 35,67.7 	"/>
+</g>
+<g id="레이어_3" class="st0">
+	<polygon class="st1" points="39.2,18 3.5,18 3.5,96.5 67.8,96.5 67.8,46.6 	"/>
+	<polygon class="st1" points="39.2,46.6 67.8,46.6 39.2,18 	"/>
+	<polyline class="st1" points="67.8,82 96.5,82 96.5,32.2 67.8,3.5 32.2,3.5 32.2,17.9 	"/>
+	<polygon class="st1" points="67.8,32.2 96.5,32.2 67.8,3.5 	"/>
+</g>
+<g id="레이어_1_00000023959910484585084960000002177869496144858814_" class="st0">
+	<line class="st1" x1="3.5" y1="3.5" x2="96.5" y2="3.5"/>
+	<path class="st1" d="M37,15.1H10.5c-3.8,0-6.9,3.1-6.9,6.9v67.6c0,3.8,3.1,6.9,6.9,6.9H37c3.8,0,6.9-3.1,6.9-6.9V22
+		C43.9,18.2,40.8,15.1,37,15.1z"/>
+	<path class="st1" d="M89.5,15.1H63c-3.8,0-6.9,3.1-6.9,6.9v26.5c0,3.8,3.1,6.9,6.9,6.9h26.5c3.8,0,6.9-3.1,6.9-6.9V22
+		C96.5,18.2,93.4,15.1,89.5,15.1z"/>
+</g>
+<g id="레이어_2_00000170264618605125218350000000322870409507562425_">
+	<path class="st5" d="M36.8,3.5H10.7c-4,0-7.2,3.2-7.2,7.2v26.1c0,4,3.2,7.2,7.2,7.2h26.1c4,0,7.2-3.2,7.2-7.2V10.7
+		C43.9,6.7,40.7,3.5,36.8,3.5z"/>
+	<path class="st5" d="M36.8,56.1H10.7c-4,0-7.2,3.2-7.2,7.2v26.1c0,4,3.2,7.2,7.2,7.2h26.1c4,0,7.2-3.2,7.2-7.2V63.2
+		C43.9,59.3,40.7,56.1,36.8,56.1z"/>
+	<path class="st5" d="M89.3,3.5H63.2c-4,0-7.2,3.2-7.2,7.2v26.1c0,4,3.2,7.2,7.2,7.2h26.1c4,0,7.2-3.2,7.2-7.2V10.7
+		C96.5,6.7,93.3,3.5,89.3,3.5z"/>
+	<path class="st5" d="M89.3,56.1H63.2c-4,0-7.2,3.2-7.2,7.2v26.1c0,4,3.2,7.2,7.2,7.2h26.1c4,0,7.2-3.2,7.2-7.2V63.2
+		C96.5,59.3,93.3,56.1,89.3,56.1z"/>
+</g>
+</svg>
